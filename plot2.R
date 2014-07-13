@@ -1,6 +1,3 @@
-##install if need
-##install.packages("sqldf")
-##install.packages("chron")
 library(sqldf)
 library(chron)
 
